@@ -7,7 +7,7 @@
 </div>
   
   <div style="display: inline_block" margin="auto"><br>
-  <img align="center" alt="Rafael-Js" height="30" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafael-Js" height="30" width="15" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    
   <img align="center" alt="Rafael-HTML" height="30" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
    
