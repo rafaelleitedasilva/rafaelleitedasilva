@@ -1,21 +1,22 @@
 ### Hello, World!
 
 <div align="center">
-  <a href="https://github.com/rafaelleitedasilva">
+  <a style="text-decoration: none;" href="https://github.com/rafaelleitedasilva">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rafaelleitedasilva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelleitedasilva&layout=compact&langs_count=7&theme=tokyonight"/>
+  </a>
 </div>
   
-  <div style="display: inline_block" margin="auto"><br>
-  <img align="center" alt="Rafael-Js" height="30" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-   
-  <img align="center" alt="Rafael-HTML" height="30" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-   
-  <img align="center"  alt="Rafael-CSS" height="30" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    
-  <img align="center" alt="Rafael-Python" height="30" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <div style="display: inline_block;" align="center" margin="auto"><br>
+  <a style="text-decoration: none;" href="https://github.com/rafaelleitedasilva">
+   <img align="left" alt="Rafael-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+   <img align="left" alt="Rafael-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
+   <img align="left"  alt="Rafael-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+   <img align="left" alt="Rafael-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+   </a>
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/944560303067242519/944568302624186368/ezgif.com-gif-maker.gif?width=563&height=563">
   </div>
+  <br>
   
   ##
   
