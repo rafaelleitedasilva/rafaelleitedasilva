@@ -19,7 +19,7 @@
 
     
     
-  <img align="right" alt="Matrix" height="200" width="300" src="https://i.pinimg.com/originals/16/02/b2/1602b26c05ee78120695d592a68b8912.gif">
+  <img align="right" alt="Matrix" height="200" src="https://i.pinimg.com/originals/16/02/b2/1602b26c05ee78120695d592a68b8912.gif">
   </div>
   <br>
   
