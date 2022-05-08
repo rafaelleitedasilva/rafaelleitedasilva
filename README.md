@@ -16,10 +16,6 @@
     <img align="left" alt="Rafael-php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
     <img align="left" alt="Rafael-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
     <img align="left" alt="Rafael-bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-
-    
-    
-  <img align="right" alt="Matrix" height="200" src="https://thumbs.gfycat.com/UnfitPitifulHoatzin-size_restricted.gif">
   </div>
   <br>
   
