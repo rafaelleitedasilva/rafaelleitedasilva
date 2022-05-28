@@ -1,10 +1,10 @@
 ### Hello, World!
-
 <div align="center">
-  <a href="https://github.com/rafaelleitedasilva">
+  <a width="200px" href="https://github.com/rafaelleitedasilva">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rafaelleitedasilva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelleitedasilva&layout=compact&langs_count=7&theme=dark"/>
   </a>
+    <img height="150em" src="https://acegif.com/wp-content/gifs/coffee-88.gif"></img>
 </div>  
   <div style="text-align: center; margin: auto;" align="center"><br>
   <a style="text-decoration: none;" href="https://github.com/rafaelleitedasilva">
@@ -20,12 +20,14 @@
   <br>
   
   ##
+ 
   
   <div align="center">
   <a align="center" href="https://www.instagram.com/1car0_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a align="center"  href="mailto:rafael.leite.14@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a> 
   <a align="center" href="https://www.linkedin.com/in/rafael-leite-da-silva-10654a222/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"><a/>
     
- <!--![Snake animation](https://github.com/rafaelleitedasilva/rafaelleitedasilva/blob/output/github-contribution-grid-snake.svg)-->
+    
+![Snake animation](https://github.com/rafaelleitedasilva/rafaelleitedasilva/blob/output/github-contribution-grid-snake.svg)
     
   </div>
