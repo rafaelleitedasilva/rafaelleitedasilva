@@ -1,10 +1,9 @@
 ### Hello, World!
 <div align="center">
-  <a width="200px" href="https://github.com/rafaelleitedasilva">
+  <img height="150em" src="https://i.gifer.com/origin/c8/c8f3a2b28cb3660df7d216e63e61862e.gif">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rafaelleitedasilva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelleitedasilva&layout=compact&langs_count=7&theme=dark"/>
-  </a>
-    <img height="150em" src="https://c.tenor.com/Mtt_u2FtYBkAAAAC/coffee-code.gif"></img>
+    <img height="150em" src="https://downloadwap.com/thumbs3/screensavers/d/new/misc/walking_man-314762.gif">
 </div>  
   <div style="text-align: center; margin: auto;" align="center"><br>
   <a style="text-decoration: none;" href="https://github.com/rafaelleitedasilva">
