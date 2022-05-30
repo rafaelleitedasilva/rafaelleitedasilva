@@ -38,6 +38,7 @@ System.out.print("Hello, World!")
   <a align="center" href="https://www.linkedin.com/in/rafael-leite-da-silva-10654a222/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"><a/>
     
     
-![Snake animation](https://github.com/rafaelleitedasilva/rafaelleitedasilva/blob/output/github-contribution-grid-snake.svg)
+<!--![Snake animation](https://github.com/rafaelleitedasilva/rafaelleitedasilva/blob/output/github-contribution-grid-snake.svg)-->
+<br>
 <img height="180em" margin-bottom="40px" src="https://downloadwap.com/thumbs3/screensavers/d/new/misc/walking_man-314762.gif">
 </div>
