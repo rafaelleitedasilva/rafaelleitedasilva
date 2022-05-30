@@ -3,10 +3,9 @@
   <img height="150em" src="https://i.gifer.com/origin/c8/c8f3a2b28cb3660df7d216e63e61862e.gif">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rafaelleitedasilva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelleitedasilva&layout=compact&langs_count=7&theme=dark"/>
-    <img height="150em" src="https://downloadwap.com/thumbs3/screensavers/d/new/misc/walking_man-314762.gif">
+    
 </div>  
   <div style="text-align: center; margin: auto;" align="center"><br>
-  <a style="text-decoration: none;" href="https://github.com/rafaelleitedasilva">
    <img align="center" alt="Rafael-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img align="center" alt="Rafael-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
    <img align="center"  alt="Rafael-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -18,6 +17,11 @@
   </div>
   <br>
   
+   ```
+    “A curiosidade é mais importante que o conhecimento.” Albert Einstein
+   ```
+  
+  
   ##
  
   
@@ -28,5 +32,5 @@
     
     
 ![Snake animation](https://github.com/rafaelleitedasilva/rafaelleitedasilva/blob/output/github-contribution-grid-snake.svg)
-    
-  </div>
+<img height="180em" margin-bottom="40px" src="https://downloadwap.com/thumbs3/screensavers/d/new/misc/walking_man-314762.gif">
+</div>
