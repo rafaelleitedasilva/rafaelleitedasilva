@@ -1,5 +1,10 @@
 <h1>Hello, World!</h1>
 
+```
+Console.log("Hello, World!")
+Print("Hello, World!")
+System.out.print("Hello, World!")
+```
 
 <div align="center">
   <img height="150em" src="https://i.gifer.com/origin/c8/c8f3a2b28cb3660df7d216e63e61862e.gif">
@@ -19,9 +24,9 @@
   </div>
   <br>
   
-   ```
-    “A curiosidade é mais importante que o conhecimento.” Albert Einstein
-   ```
+   
+   > “A curiosidade é mais importante que o conhecimento.” Albert Einstein
+   
   
   
   ##
