@@ -4,6 +4,7 @@
 Console.log("Hello, World!")
 Print("Hello, World!")
 System.out.print("Hello, World!")
+echo("Hello, World!")
 ```
 
 <div align="center">
