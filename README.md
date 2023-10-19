@@ -8,10 +8,11 @@ echo("Hello, World!")
 ```
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rafaelleitedasilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelleitedasilva&layout=compact&langs_count=6&theme=dracula"/>
-    
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rafaelleitedasilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&hide_rank=true"/>
+  <img src="https://streak-stats.demolab.com?user=rafaelleitedasilva&locale=en&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" height="150" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelleitedasilva&layout=compact&langs_count=6&theme=dracula&hide_border=true"/>
 </div>  
+
   <div style="text-align: center; margin: auto;" align="center"><br>
   <img align="center" alt="Rafael-php" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Rafael-php" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
@@ -31,7 +32,7 @@ echo("Hello, World!")
   <br>
   
    
-   > “A curiosidade é mais importante que o conhecimento.” Albert Einstein
+   > “A curiosidade é mais importante que o conhecimento.” - Albert Einstein
    
   
   
