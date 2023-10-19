@@ -8,9 +8,9 @@ echo("Hello, World!")
 ```
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rafaelleitedasilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&hide_rank=true"/>
-  <img src="https://streak-stats.demolab.com?user=rafaelleitedasilva&locale=en&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" height="150" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelleitedasilva&layout=compact&langs_count=6&theme=dracula&hide_border=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rafaelleitedasilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&hide_rank=true&layout=compact&card_width=120"/>
+  <img src="https://streak-stats.demolab.com?user=rafaelleitedasilva&locale=en&layout=compact&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" height="150" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelleitedasilva&layout=compact&langs_count=6&theme=dracula&hide_border=true&card_width=120"/>
 </div>  
 
   <div style="text-align: center; margin: auto;" align="center"><br>
